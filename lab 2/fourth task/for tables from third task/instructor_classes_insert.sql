@@ -1,0 +1,1 @@
+insert into instructor_classes values ('12B345678', 123456);

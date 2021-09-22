@@ -1,0 +1,1 @@
+insert into student_classes values ('20B030030', 123456);
