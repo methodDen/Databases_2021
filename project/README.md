@@ -5,7 +5,7 @@
 The application is a package delivery company (similar to FedEx, UPS, DHL, the USPS, etc.) in which the company needs to keep track of packages shipped and their customers. 
 
 ## Application ERD 
-![(https://github.com/methodDen/Databases_2021/blob/main/project/DB%20project%20ERD.png)]
+![](https://github.com/methodDen/Databases_2021/blob/main/project/DB%20project%20ERD.png)
 
 ## Used technologies
 - DataGrip - IDE for working with databases
